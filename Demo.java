@@ -43,6 +43,11 @@ public class Demo
       studs.add(new Student(18,"Meher"));
       studs.add(new Student(23,"Aminu"));
       studs.add(new Student(21,"Thilak"));
+      studs.add(new Student(20,"Derrick"));
+      studs.add(new Student(18,"Meher"));
+      studs.add(new Student(23,"Aminu"));
+      studs.add(new Student(21,"Thilak"));
+
 
       Collections.sort(studs,com);
       for(Student s:studs)
